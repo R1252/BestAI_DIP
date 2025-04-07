@@ -1,0 +1,19 @@
+# Apple ModelI/O MTL File: Test.mtl
+
+newmtl material_1
+	Kd 1.000 1.000 1.000
+	Ka 0.000 0.000 0.000
+	Ks 0.000 0.000 0.000
+	ao 1 1 1
+	subsurface 0
+	metallic 0 0 0
+	specularTint 0
+	roughness 0.433671 0.433671 0.433671
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+
+map_Kd texture.png

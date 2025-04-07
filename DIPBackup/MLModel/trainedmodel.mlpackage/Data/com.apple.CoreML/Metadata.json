@@ -1,0 +1,16 @@
+{
+  "MLModelVersionStringKey" : "8.0.215",
+  "MLModelDescriptionKey" : "Ultralytics YOLOv8x-ghost-self model trained on \/home\/nitamader\/Documents\/03_Jou\/03_YOLOobj\/yolov8\/yaml\/model2_2cls.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "IoU threshold" : "0.45",
+    "stride" : "32",
+    "Confidence threshold" : "0.25",
+    "task" : "detect",
+    "imgsz" : "[256, 256]",
+    "date" : "2024-04-21T22:16:58.397350",
+    "batch" : "1",
+    "names" : "{0: 'crack', 1: 'spall'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 https:\/\/ultralytics.com\/license"
+}
